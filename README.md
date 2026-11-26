@@ -110,6 +110,7 @@ The skill marks which source each rule comes from. Three flags are my own extens
 - [BEAM](https://github.com/Halfofthesky/beam): maps what each source does in your text.
 - [Concept Check](https://github.com/Halfofthesky/concept-check): tests whether a concept earns its place.
 - [Evidence Tests](https://github.com/Halfofthesky/evidence-tests): weighs the evidence for causal claims against rival explanations.
+- [CARS](https://github.com/Halfofthesky/cars): checks that an introduction says what the field is missing and that the work supplies it.
 - [Logic & Reasoning Skills](https://github.com/Halfofthesky/logic-reasoning-skills): reconstructs arguments, spots fallacies, solves formal logic.
 - [Adversarial Editorial Review](https://github.com/Halfofthesky/adversarial-editorial-review): three reviewers and an editorial synthesis for humanities manuscripts.
 
